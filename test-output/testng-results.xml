@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-07T01:29:25 IST" name="Default suite" finished-at="2023-12-07T01:30:33 IST" duration-ms="68467">
+    <groups>
+    </groups>
+    <test started-at="2023-12-07T01:29:25 IST" name="Default test" finished-at="2023-12-07T01:30:33 IST" duration-ms="68467">
+      <class name="com.vtiger.tests.LoginTests">
+        <test-method is-config="true" signature="launchapp()[pri:0, instance:com.vtiger.tests.LoginTests@6574a52c]" started-at="2023-12-07T01:29:14 IST" name="launchapp" finished-at="2023-12-07T01:29:25 IST" duration-ms="10559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="verifyInValidlogin_TC02()[pri:0, instance:com.vtiger.tests.LoginTests@6574a52c]" started-at="2023-12-07T01:29:25 IST" name="verifyInValidlogin_TC02" finished-at="2023-12-07T01:29:27 IST" duration-ms="1750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInValidlogin_TC02 -->
+        <test-method signature="verifyLogoonLoginScreen_TC03()[pri:0, instance:com.vtiger.tests.LoginTests@6574a52c]" started-at="2023-12-07T01:29:27 IST" name="verifyLogoonLoginScreen_TC03" finished-at="2023-12-07T01:29:27 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoonLoginScreen_TC03 -->
+        <test-method signature="verifyNewLead_TC04()[pri:0, instance:com.vtiger.tests.LoginTests@6574a52c]" started-at="2023-12-07T01:29:27 IST" name="verifyNewLead_TC04" finished-at="2023-12-07T01:30:33 IST" duration-ms="66587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewLead_TC04 -->
+        <test-method signature="verifylogin_TC01()[pri:0, instance:com.vtiger.tests.LoginTests@6574a52c]" started-at="2023-12-07T01:30:33 IST" name="verifylogin_TC01" finished-at="2023-12-07T01:30:33 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin_TC01 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:com.vtiger.tests.LoginTests@6574a52c]" started-at="2023-12-07T01:30:33 IST" name="closeapp" finished-at="2023-12-07T01:30:34 IST" duration-ms="933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- com.vtiger.tests.LoginTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
